@@ -1,2 +1,24 @@
 # tjssesu_Workbook
-The workbook of SU of SSE, Tongji University 
+这里是同济大学软件学院团学联工作手册。
+
+[请在这里查看Markdown语法](http://www.jianshu.com/p/1e402922ee32/)
+
+## 格式说明
+
+希望大家能够统一格式，方便后期的修订。
+
+1.一号标题书写XX部细则
+
+2.二号标题 `（一）：总则`  中文括号和冒号
+
+3.内容包括但不限于
+
+```markdown
+总则
+机构设置
+基本制度
+工作职责
+```
+
+
+
